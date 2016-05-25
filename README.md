@@ -1,1 +1,3 @@
 # Trident
+
+Era semnificativ mai bine in mm...
